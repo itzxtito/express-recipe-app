@@ -14,7 +14,7 @@ This project is a small Node.js and Express-based RESTful API that allows users 
 ## Setup & Installation
 1. Clone the repository:
    ```sh
-   git clone <repository_url>
+   git clone https://github.com/itzxtito/express-recipe-app
    ```
 2. Install dependencies:
    ```sh
